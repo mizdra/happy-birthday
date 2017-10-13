@@ -6,6 +6,7 @@ const hbd = () => {
   const message = `🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂
 
 🎉 🎉 🎉  Happy Birthday, mizdra!! 🎉 🎉 🎉
+🎉 🎉 🎉       ${new Date().getFullYear()} / 10 / 14      🎉 🎉 🎉
 
 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂 🎂`
   const options = {align: 'center', padding: 1, borderColor: 'blue'}
