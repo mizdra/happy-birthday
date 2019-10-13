@@ -10,6 +10,6 @@
   "author": "mizdra <pp.mizdra@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "pokemonsay": "^1.0.1"
+    "@mizdra/pokemonsay": "^1.0.1"
   }
 }

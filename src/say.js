@@ -1,6 +1,6 @@
 'use strict'
 
-const pokemonsay = require('pokemonsay').default
+const pokemonsay = require('@mizdra/pokemonsay').default
 
 const say = (text, options) => {
   const pokemon = pokemonsay.iChooseYou({ number: 230 })[0]
