@@ -9,6 +9,9 @@
   "bin": {
     "hbd-mizdra": "./bin/hbd-mizdra.js"
   },
+  "engines": {
+    "node": ">=14"
+  },
   "repository": "https://github.com/mizdra/happy-birthday.git",
   "author": "mizdra <pp.mizdra@gmail.com>",
   "license": "MIT",
